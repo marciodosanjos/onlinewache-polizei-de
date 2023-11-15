@@ -1,0 +1,29 @@
+{
+    "headerEasyLanguage": "Leichte Sprache",
+    "headerEnglish": "Englisch",
+    "headerDeutsch": "Deutsch",
+    "wellcomeText": "Willkommen bei den Onlinewachen der Polizeien in Deutschland",
+    "inputTitle": "Zur Onlinewache",
+    "labelText1": "Der Ort des Ereignisses / der Tatort ist <strong>in Deutschland</strong>",
+    "labelText2": "Der Ort des Ereignisses / der Tatort ist <strong>im Ausland / im Internet / unbekannt</strong> (und Ihr Wohnsitz ist in Deutschland)",
+    "textInDe": "Wählen Sie hier das </strong>Bundesland,<strong> in dem das Ereignis stattgefunden hat:",
+    "textInAusland": "WWählen Sie hier das <strong>Bundesland Ihrer Wohnadresse in Deutschland</strong>:",
+    "accordionTitel1": "Was ist die Onlinewache?",
+    "accordionContent1": "<strong>Die Onlinewache auch Internetwache genannt ist ein zusätzliches Serviceangebot der deutschen Polizei.</strong> <br><br> Sie wurden durch eine Straftat geschädigt oder haben verdächtigte  Beobachtungen gemacht? Dann können Sie über ein <strong>Online-Formular eine  Strafanzeige erstatten</strong> oder der <strong>Polizei Hinweise / Mitteilungen</strong> senden.<br><br> Verkehrsunfälle und Delikte mit komplexen Sachverhalten melden Sie bitte  direkt bei der nächstgelegenen Polizeidienststelle.<br><br><strong>Bei Straftaten, die unter Androhung oder Anwendung von Gewalt erfolgt  sind, wenden Sie sich bitte sofort an die Polizei – persönlich oder über Notruf 110.</strong>",
+
+    "accordionTitel2": "Welche Delikte kann ich hier anzeigen?",
+
+    "accordionContent2": "Sie können in der Onlinewache <strong>einfache Straftaten</strong> melden, wie zum Beispiel:<br/><br/>– <strong>Betrug</strong>: Missbrauch von Daten oder Kundenkonten, Betrug im Internet<br/>– <strong>Diebstahl</strong>: Diebstahl rund ums Fahrrad, Diebstahl rund ums Fahrzeug | Kfz, Sonstiger Diebstahl<br />– <strong>Sachbeschädigung</strong>: Beschädigung oder Zerstörung von fremdem Eigentum<br/>– <strong>Hass im Netz</strong>: Hasspostings im Internet<br />– <strong>Andere Strafanzeige</strong>: Strafanzeigen, die in keine der anderen Kategorien passen<br/><br/>– <strong>Hinweis</strong>: Ungewöhnliche Beobachtungen und Hinweise<br/>– <strong>Lob & Beschwerde</strong>: Ihre Rückmeldungen an uns<br/> <br/>Bitte beachten Sie, dass die Auswahl der Delikte und Formulare für die Onlinewache <strong>je nach Bundesland unterschiedlich</strong> sein kann.<br/><br/><strong>Datenschutz und Datensicherheit</strong> sind uns wichtig, daher werden Ihre Angaben verschlüsselt übertragen. <br/><br/> Wir möchten Sie auch darauf hinweisen, dass die Ihrem PC / Endgerät zugewiesene <strong>IP-Adresse</strong> espeichert wird, damit im Falle einer missbräuchlichen Verwendung der Onlinewache der Absender des Formulars ermittelt werden kann.",
+
+    "accordionTitel3": "Welche Informationen / Unterlagen benötige ich?",
+    "accordionContent3": "– Halten Sie die <strong>Personendaten</strong> zu Ihrer Person und weiteren beteiligten Personen (Geschädigte, eugen, Tatverdächtige) bereit  wie Vorname, Nachname, Adresse, Geburtsdatum, Kontaktdaten. Je mehr Angaben Sie  machen können, desto besser.<br><br>– Sammeln Sie <strong>Unterlagen</strong> wie zum Beispiel Fotos vom Tatort, Kaufbelege von gestohlenen Gegenständen, Screenshots / PDF-Export von Internetseitenoder E-Mail-Verläufen. Diese können wichtige Beweismittel sein und die Aufklärungsarbeit der Polizei unterstützen. Sie können die Unterlagen am Ende Ihrer Anzeige als Dateianhänge hochladen.",
+    "accordionTitel4": "Wie erstatte ich eine Anzeige in der Onlinewache?",
+    "accordionContent4": "– Sie müssen <strong>zuerst das zuständige Bundesland auswählen</strong> – unabhängig von der Art der Straftat, die Sie anzeigen möchten.<br> – Entscheidend für die Auswahl des zuständigen Bundeslandes ist der <strong>Ort, an dem das Ereignis stattgefunden hat</strong>.<br><br>Ist der <strong>Ereignisort / Tatort</strong>:<br>• <strong>in Deutschland</strong>.: Wählen Sie das Bundesland, in dem der Tatort liegt.<br>• <strong>im Ausland, im Internet oder unbekannt</strong>.: Wählen Sie das Bundesland Ihrer Wohnadresse in Deutschland.<br><br> – Wählen Sie dann das passende <strong>.Online-Formular</strong>.im entsprechenden  Bundesland aus.<br> – Geben Sie die <strong>Daten</strong> ein (Pflichtfelder sind meist mit einem Stern * gekennzeichnet).<br>– Laden Sie <strong>Fotos und Unterlagen</strong> (Kaufbelege, Screenshots usw.) hoch. <br>Nutzen Sie die <strong>Tooltipps</strong>  für Hilfe und weitere Erklärungen.<br> – <strong>Überprüfen</strong> Sie alle eingegebenen Daten.<br><strong>Senden</strong> Sie die Anzeige, wenn alle Angaben korrekt und die flichtfelder ausgefüllt sind",
+    "accordionTitel5": "Was passiert nach dem Abschicken der Anzeige?",
+    "accordionContent5": "– Nach dem erfolgreichen Abschicken der Online-Strafanzeige oder Ihrer Mitteilung an die Polizei erhalten Sie per E-Mail eine <strong>Bestätigung</strong>, dass die Anzeige übermittelt wurde.<br><br> – Nach der Prüfung des Sachverhalts durch die zuständige Polizeidienststelle oder die Justizbehörde werden Sie zu gegebener Zeit über das weitere Vorgehen informiert.",
+    "footerNameProject": "Polizei Onlinewache",
+    "footerProjectDescription": "Dieses Projekt ist Bestandteil von",
+    "footerLegalDisclosure": "Impressum",
+    "footerDataProtection": "Datenschutz",
+    "footerAccessibility": "Erklärung zur Barrierefreiheit"
+}

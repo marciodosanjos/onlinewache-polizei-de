@@ -1,0 +1,1709 @@
+{
+    "bw": {
+        "name": "bundeslandBw",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/253eceb4-a7e5-4519-8ebe-25de7267b9d0?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/253eceb4-a7e5-4519-8ebe-25de7267b9d0?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/b13ca188-89bd-4ce0-81b1-96076421fbcc?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/b13ca188-89bd-4ce0-81b1-96076421fbcc?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/0233c75e-fd9c-4bf0-8d6d-bb6ae43654f4?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/0233c75e-fd9c-4bf0-8d6d-bb6ae43654f4?lang="
+                    }
+                ]
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/c5516c76-23af-4138-a565-c3db40db80e7?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/c5516c76-23af-4138-a565-c3db40db80e7?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/37d5ec2a-2fdc-4288-af00-b15b1b2a3d60?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/37d5ec2a-2fdc-4288-af00-b15b1b2a3d60?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://BW.onlinewache.polizei.de/form/start/c398ee97-eafb-4f8d-ac62-4f6401e0a85f?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/BW/c398ee97-eafb-4f8d-ac62-4f6401e0a85f?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "by": {
+        "name": "bundeslandBy",
+        "link": "https://www.polizei.bayern.de/"
+    },
+    "be": {
+        "name": "bundeslandBe",
+        "link": "https://www.internetwache-polizei-berlin.de/index_start.html"
+    },
+    "bb": {
+        "name": "bundeslandBb",
+        "link": "https://polizei.brandenburg.de/onlineservice/auswahl_strafanzeige"
+    },
+    "hb": {
+        "name": "bundeslandHb",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://HB.onlinewache.polizei.de/form/start/bf82763e-5a30-46ea-bf66-09fb6e8b1890?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HB/bf82763e-5a30-46ea-bf66-09fb6e8b1890?lang="
+                    }
+                ]
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://HB.onlinewache.polizei.de/form/start/8d16dd9c-11f2-450e-ac9a-0b964a903c70?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HB/8d16dd9c-11f2-450e-ac9a-0b964a903c70?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "hh": {
+        "name": "bundeslandHh",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://HH.onlinewache.polizei.de/form/start/dbb0f524-33af-4b58-992d-11513b57b1cd?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HH/dbb0f524-33af-4b58-992d-11513b57b1cd?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://HH.onlinewache.polizei.de/form/start/f496a67e-8db0-4984-b138-e5682674bd5d?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HH/f496a67e-8db0-4984-b138-e5682674bd5d?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://HH.onlinewache.polizei.de/form/start/ed91035e-46f8-4783-9a9a-0c2bd57fc1c7?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HH/ed91035e-46f8-4783-9a9a-0c2bd57fc1c7?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://HH.onlinewache.polizei.de/form/start/f65db19e-38a4-4b71-a83d-e3e4c7f524a3?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HH/f65db19e-38a4-4b71-a83d-e3e4c7f524a3?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "he": {
+        "name": "bundeslandHe",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/8cfd2e5b-1c42-4dcb-9e24-35e412f1f483?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/8cfd2e5b-1c42-4dcb-9e24-35e412f1f483?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/26a016aa-2ddf-4775-b397-f1d5de0b88eb?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/26a016aa-2ddf-4775-b397-f1d5de0b88eb?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/87de0218-6e29-499a-b6fb-ac7dc69f64e6?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/87de0218-6e29-499a-b6fb-ac7dc69f64e6?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/bf264d2e-b46c-473f-8936-d289cb4bd01e?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/bf264d2e-b46c-473f-8936-d289cb4bd01e?lang="
+                    }
+                ]
+            },
+
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/8df766bf-c3dd-4f94-9072-4ded15179cae?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/8df766bf-c3dd-4f94-9072-4ded15179cae?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://HE.onlinewache.polizei.de/form/start/23456db6-e8b1-4374-b9e0-4d98151e23a2?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/HE/23456db6-e8b1-4374-b9e0-4d98151e23a2?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "mv": {
+        "name": "bundeslandMv",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/0f8942fc-0138-4777-8c90-bc6a9664bed4?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/0f8942fc-0138-4777-8c90-bc6a9664bed4?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/0b1bce9d-71a4-42cf-89b9-42c077c9f2c9?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/0b1bce9d-71a4-42cf-89b9-42c077c9f2c9?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/3a8dce57-41be-4af4-ac67-d9987e56dcac?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/3a8dce57-41be-4af4-ac67-d9987e56dcac?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/81f2f862-698b-4800-b2b2-e2e7990c1df9?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/81f2f862-698b-4800-b2b2-e2e7990c1df9?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/56f7399a-ed6d-44a8-aff3-f6f5faf7a7f4?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/56f7399a-ed6d-44a8-aff3-f6f5faf7a7f4?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/7aa98cfa-b07b-42da-b29b-67b854913768?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/7aa98cfa-b07b-42da-b29b-67b854913768?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "lob": {
+                "title": "praiseAndComplaintTitle",
+                "description": "praiseAndComplaintDescription",
+                "longDescription": "praiseAndComplaintLongDescription",
+                "copyrightFoto": "praiseAndComplaintPhotoCopyright",
+                "metaTitle": "praiseAndComplaintMetaTitle",
+                "metaDescription": "praiseAndComplaintMetaDescription",
+                "altTextPhoto": "praiseAndComplaintPhotoAltText",
+                "titlePhoto": "praiseAndComplaintPhotoTitle",
+                "titleURL": "praiseAndComplaintTitleURL",
+                "buttons": [
+                    {
+                        "text": "praiseAndComplaintTextButton1",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL1",
+                        "link": "https://MV.onlinewache.polizei.de/form/start/42e5e48e-83a3-4d55-8a59-721d951b84d2?lang="
+                    },
+                    {
+                        "text": "praiseAndComplaintTextButton2",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/MV/42e5e48e-83a3-4d55-8a59-721d951b84d2?lang="
+                    }
+                ]
+            },
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "ni": {
+        "name": "bundeslandNi",
+        "link": "https://www.onlinewache.polizei.niedersachsen.de/"
+    },
+    "nw": {
+        "name": "bundeslandNw",
+        "link": "https://internetwache.polizei.nrw/"
+    },
+    "rp": {
+        "name": "bundeslandRp",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/946a8b0e-fb73-4a9b-bd9c-48aa416d0a3f?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/946a8b0e-fb73-4a9b-bd9c-48aa416d0a3f?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/91883f44-0cb3-4fea-846f-ae526a17d629?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/91883f44-0cb3-4fea-846f-ae526a17d629?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/4aa978fc-39a3-4537-999b-65dece631d82?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/4aa978fc-39a3-4537-999b-65dece631d82?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/6771c7a4-cf8a-4b03-b368-bede90e11b34?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/6771c7a4-cf8a-4b03-b368-bede90e11b34?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/837b9378-7d95-45a8-8f7e-008c3f87bf8d?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/837b9378-7d95-45a8-8f7e-008c3f87bf8d?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/c5e30a3d-1be6-44e9-9a1a-806976b12b38?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/c5e30a3d-1be6-44e9-9a1a-806976b12b38?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "lob": {
+                "title": "praiseAndComplaintTitle",
+                "description": "praiseAndComplaintDescription",
+                "longDescription": "praiseAndComplaintLongDescription",
+                "copyrightFoto": "praiseAndComplaintPhotoCopyright",
+                "metaTitle": "praiseAndComplaintMetaTitle",
+                "metaDescription": "praiseAndComplaintMetaDescription",
+                "altTextPhoto": "praiseAndComplaintPhotoAltText",
+                "titlePhoto": "praiseAndComplaintPhotoTitle",
+                "titleURL": "praiseAndComplaintTitleURL",
+                "buttons": [
+                    {
+                        "text": "praiseAndComplaintTextButton1",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL1",
+                        "link": "https://RP.onlinewache.polizei.de/form/start/3903ee54-6dd2-423b-bd54-15420e83abbe?lang="
+                    },
+                    {
+                        "text": "praiseAndComplaintTextButton2",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/RP/3903ee54-6dd2-423b-bd54-15420e83abbe?lang="
+                    }
+                ]
+            },
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "sl": {
+        "name": "bundeslandSl",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/35feb0a0-f30b-4b0a-877c-81d4b5b1e115?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/35feb0a0-f30b-4b0a-877c-81d4b5b1e115?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/096ed654-737a-410f-a642-13671aadfae5?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/096ed654-737a-410f-a642-13671aadfae5?lang="
+                    }
+                ]
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/f97a2980-2b3a-4c7d-b9d1-960f164dda35?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/f97a2980-2b3a-4c7d-b9d1-960f164dda35?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/88de811a-0833-4dc2-a6ef-420541366f26?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/88de811a-0833-4dc2-a6ef-420541366f26?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/ec595534-6a08-4b33-be63-5ea9d917de71?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/ec595534-6a08-4b33-be63-5ea9d917de71?lang="
+                    }
+                ]
+            },
+            "enkeltrick": {
+                "title": "grandchildTrickTitle",
+                "description": "grandchildTrickDescription",
+                "longDescription": "grandchildTrickLongDescription",
+                "copyrightFoto": "grandchildTrickPhotoCopyright",
+                "metaTitle": "grandchildTrickMetaTitle",
+                "metaDescription": "grandchildTrickMetaDescription",
+                "altTextPhoto": "grandchildTrickPhotoAltText",
+                "titlePhoto": "grandchildTrickPhotoTitle",
+                "titleURL": "grandchildTrickTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "grandchildTrickButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/7162ccb7-c951-416d-927c-c7953a104330?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "grandchildTrickButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/7162ccb7-c951-416d-927c-c7953a104330?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/84bf51d9-8a3e-4100-9300-0abfd2fbf5b1?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/84bf51d9-8a3e-4100-9300-0abfd2fbf5b1?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "lob": {
+                "title": "praiseAndComplaintTitle",
+                "description": "praiseAndComplaintDescription",
+                "longDescription": "praiseAndComplaintLongDescription",
+                "copyrightFoto": "praiseAndComplaintPhotoCopyright",
+                "metaTitle": "praiseAndComplaintMetaTitle",
+                "metaDescription": "praiseAndComplaintMetaDescription",
+                "altTextPhoto": "praiseAndComplaintPhotoAltText",
+                "titlePhoto": "praiseAndComplaintPhotoTitle",
+                "titleURL": "praiseAndComplaintTitleURL",
+                "buttons": [
+                    {
+                        "text": "praiseAndComplaintTextButton1",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL1",
+                        "link": "https://SL.onlinewache.polizei.de/form/start/80a1ff4c-34c4-4d99-ab98-db2963119efd?lang="
+                    },
+                    {
+                        "text": "praiseAndComplaintTextButton2",
+                        "titleUrl": "praiseAndComplaintButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SL/80a1ff4c-34c4-4d99-ab98-db2963119efd?lang="
+                    }
+                ]
+            },
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "sn": {
+        "name": "bundeslandSn",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SN.onlinewache.polizei.de/form/start/f64e40fa-f4d0-4ae7-b1e0-0945d5a5e9c9?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SN/f64e40fa-f4d0-4ae7-b1e0-0945d5a5e9c9?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SN.onlinewache.polizei.de/form/start/db148dbd-be5e-4028-b98e-99476ca2d4e3?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SN/db148dbd-be5e-4028-b98e-99476ca2d4e3?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://SN.onlinewache.polizei.de/form/start/4cbad889-ec1c-43fa-9f19-39b6e6abcaef?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SN/4cbad889-ec1c-43fa-9f19-39b6e6abcaef?lang=                     "
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://SN.onlinewache.polizei.de/form/start/a4541a79-ac2a-478b-b86e-b10a0e2bcfbd?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SN/a4541a79-ac2a-478b-b86e-b10a0e2bcfbd?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://SN.onlinewache.polizei.de/form/start/535fc50b-6268-426c-98a7-97730770bf93?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SN/535fc50b-6268-426c-98a7-97730770bf93?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "st": {
+        "name": "bundeslandSt",
+        "link": "https://polizei.sachsen-anhalt.de/das-sind-wir/polizei-interaktiv/e-revier"
+    },
+    "sh": {
+        "name": "bundeslandSh",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/7ace482a-0d74-485f-946f-96b4aaaab370?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/7ace482a-0d74-485f-946f-96b4aaaab370?lang="
+                    }
+                ]
+            },
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/75114672-094a-4659-9f24-1eee1ff5625a?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/75114672-094a-4659-9f24-1eee1ff5625a?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/19ce330a-c027-44d7-b47e-03c587f66425?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/19ce330a-c027-44d7-b47e-03c587f66425?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/aea835b3-c6e2-4350-beb3-e0dc19108293?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/aea835b3-c6e2-4350-beb3-e0dc19108293?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/ad5d22e5-eadd-4da4-b2a6-4034fbf1e14a?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/ad5d22e5-eadd-4da4-b2a6-4034fbf1e14a?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://SH.onlinewache.polizei.de/form/start/88b01eac-4ac7-48fa-b45f-5108d5700540?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/SH/88b01eac-4ac7-48fa-b45f-5108d5700540?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    },
+    "th": {
+        "name": "bundeslandTh",
+        "altTextLogoPolice": "altTextLogoPolice",
+        "linkLogoPolice": "linkPolice",
+        "titleLinkLogoPolice": "titleLinkPolice",
+        "titleLogoPolice": "photoTitleLogoPolice",
+        "logoDescription": "descriptionLogo",
+        "pageImprintTitle": "pageImprintTitle",
+        "complaints": {
+            "betrug": {
+                "title": "fraudTitle",
+                "description": "fraudDescription",
+                "longDescription": "fraudLongDescription",
+                "copyrightFoto": "fraudPhotoCopyright",
+                "metaTitle": "fraudMetaTitle",
+                "metaDescription": "fraudMetaDescription",
+                "altTextPhoto": "fraudPhotoAltText",
+                "titlePhoto": "fraudPhotoTitle",
+                "titleURL": "fraudTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/61dce022-486c-4bf9-9acf-c9105d5b25a2?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/61dce022-486c-4bf9-9acf-c9105d5b25a2?lang="
+                    }
+                ],
+                "seo": {
+                    "title": "fraudMetaTitle",
+                    "meta": [
+                        {
+                            "name": "description",
+                            "content": "fraudMetaDescription"
+                        }
+                    ]
+                }
+            },
+            "diebstahl": {
+                "title": "theftTitle",
+                "description": "theftDescription",
+                "longDescription": "theftLongDescription",
+                "copyrightFoto": "theftPhotoCopyright",
+                "metaTitle": "theftMetaTitle",
+                "metaDescription": "theftMetaDescription",
+                "altTextPhoto": "theftPhotoAltText",
+                "titlePhoto": "theftPhotoTitle",
+                "titleURL": "theftTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "titleUrlButton1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/02806d95-446a-421c-aa09-4edc884bdb85?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "titleUrlButton2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/02806d95-446a-421c-aa09-4edc884bdb85?lang="
+                    }
+                ]
+            },
+            "sachbeschaedigung": {
+                "title": "damageTitle",
+                "description": "damageDescription",
+                "longDescription": "damageLongDescription",
+                "copyrightFoto": "damagePhotoCopyright",
+                "metaTitle": "damageMetaTitle",
+                "metaDescription": "damageMetaDescription",
+                "altTextPhoto": "damagePhotoAltText",
+                "titlePhoto": "damagePhotoTitle",
+                "titleURL": "damageTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "damageButtonTitleURL1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/dc0b873b-aff9-451e-bd5c-60289da79398?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "damageButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/dc0b873b-aff9-451e-bd5c-60289da79398?lang="
+                    }
+                ]
+            },
+            "hass": {
+                "title": "hateOnNetTitle",
+                "description": "hateOnNetDescription",
+                "longDescription": "hateOnNetLongDescription",
+                "copyrightFoto": "hateOnNetPhotoCopyright",
+                "metaTitle": "hateOnTheNetMetaTitle",
+                "metaDescription": "hateOnTheNetMetaDescription",
+                "altTextPhoto": "hateOnTheNetPhotoAltText",
+                "titlePhoto": "hateOnTheNetPhotoTitle",
+                "titleURL": "hateOnTheNetTitleURL",
+                "buttons": [
+                    {
+                        "text": "complaintTextButton1",
+                        "titleUrl": "hateOnTheNetButtonTitleURL1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/fdf3076b-a3a3-485d-bc82-5a6accd80eef?lang="
+                    },
+                    {
+                        "text": "complaintTextButton2",
+                        "titleUrl": "hateOnTheNetButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/fdf3076b-a3a3-485d-bc82-5a6accd80eef?lang="
+                    }
+                ]
+            },
+            "andere": {
+                "title": "otherComplaintsTitle",
+                "description": "otherComplaintsDescription",
+                "longDescription": "otherComplaintsLongDescription",
+                "copyrightFoto": "otherComplaintsPhotoCopyright",
+                "metaTitle": "otherComplaintsMetaTitle",
+                "metaDescription": "otherComplaintsMetaDescription",
+                "altTextPhoto": "otherComplaintsPhotoAltText",
+                "titlePhoto": "otherComplaintsPhotoTitle",
+                "titleURL": "otherComplaintsTitleURL",
+                "buttons": [
+                    {
+                        "text": "otherComplaintsTextButton1",
+                        "titleUrl": "otherComplaintsButtonTitleURL1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/22865c67-4941-406e-9e10-60ccfc129bd3?lang="
+                    },
+                    {
+                        "text": "otherComplaintsTextButton2",
+                        "titleUrl": "otherComplaintsButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/22865c67-4941-406e-9e10-60ccfc129bd3?lang="
+                    }
+                ]
+            },
+            "hinweis": {
+                "title": "waringTitle",
+                "description": "waringDescription",
+                "longDescription": "waringLongDescription",
+                "copyrightFoto": "waringPhotoCopyright",
+                "metaTitle": "warningMetaTitle",
+                "metaDescription": "warningMetaDescription",
+                "altTextPhoto": "warningPhotoAltText",
+                "titlePhoto": "warningPhotoTitle",
+                "titleURL": "warningTitleURL",
+                "buttons": [
+                    {
+                        "text": "warningTextButton1",
+                        "titleUrl": "warningButtonTitleURL1",
+                        "link": "https://TH.onlinewache.polizei.de/form/start/57b18c03-bb1b-4427-8041-4eea7cd6fcd5?lang="
+                    },
+                    {
+                        "text": "warningTextButton2",
+                        "titleUrl": "warningButtonTitleURL2",
+                        "link": "https://nkb.onlinewache.polizei.de/auth/TH/57b18c03-bb1b-4427-8041-4eea7cd6fcd5?lang="
+                    }
+                ]
+            }
+        },
+        "extra": {
+            "infoBox": {
+                "infoFormTitle": "infoFormTitle",
+                "infoFormText": "infoFormDescription",
+                "infoRegistrationTitle": "infoRegistrationTitle",
+                "infoRegistrationDescription": "infoRegistrationDescription"
+            }
+        },
+        "seo": {
+            "title": "seoTitleComplaintsPage",
+            "meta": [
+                {
+                    "name": "description",
+                    "content": "seoDescriptionComplaintsPage",
+                    "key": "title"
+                }
+            ]
+        }
+    }
+}

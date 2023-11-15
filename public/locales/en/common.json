@@ -1,0 +1,30 @@
+{
+    "headerEasyLanguage": "Easy language",
+    "headerEnglish": "English",
+    "headerDeutsch": "German",
+    "wellcomeText": "Welcome to the online guards of the police forces in Germany",
+    "inputTitle": "About the online guard",
+    "labelText1": "The place of the event / the scene of the crime is <strong> in Germany </strong>",
+    "labelText2": "The place of the event / the place of the crime is <strong> abroad / on the Internet / unknown </strong> (and your residence is in Germany)",
+    "textInDe": "Select here the <strong>state<strong>  where the <strong>event took place</strong>",
+    "textInAusland": "Select the <strong>state of your residential address in Germany</strong> here:",
+
+    "accordionTitel1": "What is the online guard?",
+    "accordionContent1": "<strong>The online watch - also known as the Internet watch - is an additional  service offered by the German police</strong>.<br><br>You have been harmed by a crime or have made suspicious  observations? Then you can use an <strong>online form to file a  criminal complaint</strong> or send <strong>tips / messages to the police</strong>. <br><br>Please report traffic accidents and crimes with complex circumstances  directly to the nearest police station.<br><br><strong>In the case of crimes that have been committed with the threat or use of violence  please contact the police immediately - either in person or by calling Emergency number 110.</strong>",
+
+    "accordionTitel2": "What offenses can I report here?",
+
+    "accordionContent2": "You can report <strong>simple crimes</strong> in the online watch, such as:<br/><br/><strong>- Fraud</strong>: misuse of data or customer accounts, fraud on the Internet.<br/><strong>- Theft</strong>: theft around bicycle, theft around vehicle | motor vehicle, Other theft<br/><strong>- Property damage</strong>: Damage to or destruction of other people's property<br/><strong>- Hate on the net</strong>: Hate postings on the Internet<br/><strong>- Other criminal charges</strong>: Criminal charges that do not fit into any of the other categories.<br/><br/><strong>- Notice</strong>: unusual observations and notices<br/><strong>- Praise & Complaint</strong>: Your feedback to us<br/><br/>Please note that the selection of offenses and forms for the Online Watch may <strong>vary depending on the state</strong>.<br/><br/><strong>Data protection and data security</strong> are important to us, therefore your transmitted in encrypted form.<br/><br/>We would also like to point out that the <strong>IP address</strong> assigned to your PC / end device is stored, so that in the event of misuse of the online misuse of the online security system, the sender of the form can be identified.",
+
+    "accordionTitel3": "What information / documents do I need?",
+    "accordionContent3": "– Keep <strong>personal data</strong> about yourself and other persons involved (injured parties, witnesses, suspects) persons involved (injured parties, witnesses, suspects) - such as first name,  surname, address, date of birth, contact details. The more information you  can provide, the better.<br><br> – Collect <strong>documents</strong> such as photos from the crime scene, proofs of purchase of stolen items, screenshots / PDF exports of Internet sites or email histories. These can be important evidence and support the Police's efforts to solve the crime. You can upload the documents at the upload them as file attachments at the end of your report.",
+    "accordionTitel4": "How do I file a report in the online watch?",
+    "accordionContent4": "– You must <strong>first select the competent federal state</strong> - regardless of the type of crime you wish to report.<br>– Decisive for the selection of the competent federal state is <strong>the place where the event took place.</strong><br><br> If the <strong>event location / crime location</strong>:<br><br> • <strong>in Germany</strong>: select the federal state in which the crime scene is located.<br> • <strong>abroad, on the Internet or unknown</strong>: Select the state of your home address in Germany.<br><br> – Then select the appropriate <strong>online form</strong> in the corresponding federal state.<br> – Enter the <strong>data</strong> (mandatory fields are usually marked with an asterisk *). <br>– Upload <strong>photos and documents</strong> (proofs of purchase, screenshots, etc.). <br>Use the <strong>tooltips</strong> [?] for help and further explanations. <br>– <strong>Verify</strong> all data entered.<br>– <strong>Submit</strong> the ad if all the information is correct and the mandatory fields are filled in.",
+    "accordionTitel5": "What happens after sending the ad?",
+    "accordionContent5": "– After successfully submitting the online criminal complaint or your notification to the police, you will receive an <strong>e-mail confirmation</strong> that the complaint has been submitted.<br><br> – After the responsible police department or judicial authority has examined the facts of the case, you will be informed about further proceedings in due course.",
+    "footerNameProject": "Polizei Onlinewache",
+    "footerProjectDescription": "This project is part of",
+    "footerLegalDisclosure": "Legal notice",
+    "footerDataProtection": "Data protection",
+    "footerAccessibility": "Erklärung zur Barrierefreiheit"
+}

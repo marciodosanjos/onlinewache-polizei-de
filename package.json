@@ -1,0 +1,43 @@
+{
+    "name": "onlinewache-portal",
+    "version": "1.1.5",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "postversion": "git push && git push --tags"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.1",
+        "@emotion/styled": "^11.11.0",
+        "@fontsource/open-sans": "^5.0.12",
+        "@mui/icons-material": "^5.14.8",
+        "@mui/material": "^5.14.8",
+        "@types/node": "^20.6.0",
+        "@types/react": "18.2.21",
+        "@types/react-dom": "18.2.7",
+        "eslint": "8.49.0",
+        "eslint-config-next": "13.4.19",
+        "i18next": "^22.5.1",
+        "i18next-chained-backend": "^4.5.0",
+        "i18next-http-backend": "^2.2.2",
+        "i18next-localstorage-backend": "^4.2.0",
+        "i18next-ssg": "^3.0.3",
+        "install": "^0.13.0",
+        "next": "13.4.19",
+        "next-i18next": "^13.3.0",
+        "npm": "^10.1.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-i18next": "^12.3.1",
+        "typescript": "5.2.2"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.7.0",
+        "eslint-config-prettier": "^9.0.0",
+        "prettier": "^3.0.3",
+        "prettier-plugin-organize-imports": "^3.2.3"
+    }
+}
